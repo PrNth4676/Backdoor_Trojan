@@ -3,7 +3,7 @@
 A backdoor is a type of specialized trojan which when executed on a system would allow the attacker to gain full control over the system. It establishes communication between the attacker and victim per which attacker can perform basic system command such as dir, ipconfig etc. for starters.
 
 <div align="center">
-  ![image](https://github.com/user-attachments/assets/0d75ead4-b190-431d-8149-928c35acfaa0)  
+  ![Backdoors](https://github.com/user-attachments/assets/41d6e525-f05f-41f5-9e57-7d9bfb35a60b)
 </div>
 
 ## Establish Connection:
