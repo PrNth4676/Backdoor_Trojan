@@ -36,6 +36,15 @@ A backdoor is a type of specialized trojan which when executed on a system would
 2. Change `ATTACKER_PORT` on both `Backdoor.py` and `Listener.py` (or you can just use the default)
 3. Transfer `Listener.py` to the target machine
 4. Run `Backdoor.py` on the attacker machine
+```
+python3 Backdoor.py
+```
+5. Run `Listener.py` on the target machine
+```
+python3 Listener.py
+```
+6. Connection will be established
+
 
 
 
