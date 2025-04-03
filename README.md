@@ -17,7 +17,7 @@ A backdoor is a type of specialized trojan which when executed on a system would
 
 <div align="center">
   
-  ![image](https://github.com/user-attachments/assets/26127af5-3b52-4306-b162-c12beb9559a7)
+  ![Reverse Connection](https://github.com/user-attachments/assets/cdeb712c-8962-4943-8986-d317ce317ccf)
 </div>
 
 ## Reverse Connection:
