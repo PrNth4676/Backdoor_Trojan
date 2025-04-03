@@ -28,7 +28,14 @@ A backdoor is a type of specialized trojan which when executed on a system would
 * This connection from the victim is very similar to any other connection that the victim does every day similar to opening a web site where a connection is established.	
 * Hence, most firewalls will not trigger this as an suspicious activity as it looks like a normal connection request.
 
+# Pre-requisites
+- Python 3 (on both the attacker and the target machine)
 
+# Usage
+1. Change `ATTACKER_IP` to the actual IP of the attacker on `Backdoor.py`
+2. Change `ATTACKER_PORT` on both `Backdoor.py` and `Listener.py` (or you can just use the default)
+3. Transfer `Listener.py` to the target machine
+4. Run `Backdoor.py` on the attacker machine
 
 
 
